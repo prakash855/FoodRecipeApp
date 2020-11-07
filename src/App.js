@@ -34,7 +34,7 @@ const App = () => {
     <div className="App">
       <div className="thezayaka">
       <h1>FOOISTAN</h1>
-      <a href="https://www.instagram.com/thezayaka/"><h2>(@thezayaka)</h2></a>
+      <a href="https://www.instagram.com/thezayaka/" target="thezayaka"><h2>(@thezayaka)</h2></a>
       <h2>presents...</h2>
       <b>Every Possible food recipe for Bloggers and cooking lovers!</b>
       </div>
