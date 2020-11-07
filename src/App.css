@@ -1,0 +1,34 @@
+.App{
+  color: #dbdcd7;
+  min-height: 100vh;
+  /* background-image: linear-gradient(to right, #434343 0%, black 100%); */
+  /* background-image: linear-gradient(to top, #c79081 0%, #cc6617 100%); */
+  background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
+}
+.search-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-bar{
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+.search-button{
+  background: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  border-radius: 10%;
+  color: white;
+}
+.recipes{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.thezayaka{
+  text-align: center;
+}
